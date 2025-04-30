@@ -40,7 +40,7 @@ With each addition there was bugging and testing to confirm features were functi
 
 1. Clone repo.
 ```Bash
-git clone https://github.com/JoshR/Portfolio.git
+git clone https://github.com/JoshR-Eng/Portfolio.git
 ```
 2. Create virtual environment 
 ```Bash
